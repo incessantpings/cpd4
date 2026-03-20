@@ -1,1 +1,0 @@
-# blue_team_template
